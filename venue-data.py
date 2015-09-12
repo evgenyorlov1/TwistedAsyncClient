@@ -13,8 +13,8 @@ import os
 import urllib
 
 
-client_id = "3BC4S3TVG0WAPTERYZ5WJ1Q35ME1GZR13XXFVOQN5CXNJXIJ"
-client_secret = "XM4RDX4LVNK3TUOKXS1SAOPHND44FH3HRPYVQLGXIJNVKFK4"
+client_id = ""
+client_secret = ""
 version = 20150101
 url_end_point = "https://api.foursquare.com/v2/venues/" #check!
 header_row = ['fsq_id', 'fsq_categoryID', 'fsq_category_Name', 'fsq_address', 'fsq_cross_street',
